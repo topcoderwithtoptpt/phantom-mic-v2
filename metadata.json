@@ -1,0 +1,6 @@
+{
+  "name": "Phantom Mic",
+  "description": "Simulate microphone input from audio files with support for VoIP, video calling, Agora Engine, and WebRTC",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
